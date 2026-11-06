@@ -22,7 +22,7 @@ SistemaPP es una aplicación de escritorio en C# (Windows Forms) con base de dat
 ## Estructura del repositorio
 
 ```
-docs/
+documentos/
   Trabajo_Integrador_Tomas_Chandler.pdf   → trabajo completo
 imagenes/
   diagrama_flujo_egreso_stock.png         → diagrama del apartado 3
@@ -30,12 +30,6 @@ imagenes/
 README.md
 ```
 
-## Diagrama de flujo
+## Imágenes
 
-<img src="imagenes/diagrama_flujo_egreso_stock.png" alt="Diagrama de flujo del egreso de stock" width="550">
-
-## Interfaz anotada
-
-![Pantalla de Movimientos de Stock](imagenes/interfaz_movimientos_stock.png)
-
-1. Producto · 2. Tipo de movimiento · 3. Cantidad · 4. Registrar · 5. Desde · 6. Hasta
+El diagrama de flujo (apartado 3) y la captura anotada de la interfaz (apartado 5) están dentro del documento PDF, junto con su explicación. También se pueden ver por separado en la carpeta `imagenes`.
