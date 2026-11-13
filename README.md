@@ -18,6 +18,7 @@ SistemaPP es una aplicación de escritorio en C# (Windows Forms) con base de dat
 3. **Diagrama de flujo:** lógica de validación del egreso, con los caminos de error.
 4. **Caso de uso formal:** CU-01 Registrar egreso de stock, con flujo principal y flujos alternativos.
 5. **Captura anotada:** pantalla de Movimientos de Stock con referencias numeradas.
+6. **Documentación del proyecto en 7 pasos:** requisitos, diseño (casos de uso, diagrama entidad relación, arquitectura y prototipos), manual técnico, manual de usuario, pruebas, instalación y despliegue, y control de versiones de la documentación.
 
 ## Estructura del repositorio
 
