@@ -24,7 +24,7 @@ SistemaPP es una aplicación de escritorio en C# (Windows Forms) con base de dat
 
 ```
 documentos/
-  Trabajo_Integrador_Tomas_Chandler.pdf   → trabajo completo
+  Trabajo_Integrador_2do_Cuatrimestre.pdf → trabajo completo
 imagenes/
   diagrama_flujo_egreso_stock.png         → diagrama del apartado 3
   interfaz_movimientos_stock.png          → captura anotada del apartado 5
