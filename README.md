@@ -33,7 +33,7 @@ imagenes/
   diagrama_flujo_egreso_stock.png         → diagrama del apartado 3
   interfaz_movimientos_stock.png          → captura anotada del apartado 5
 presentacion/
-  Presentacion.pdf                        → diapositivas de la exposición oral
+  Presentacion Tomas Chandler.pdf         → diapositivas de la exposición oral
 README.md
 ```
 
