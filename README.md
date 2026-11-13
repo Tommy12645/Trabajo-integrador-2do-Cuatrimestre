@@ -20,6 +20,10 @@ SistemaPP es una aplicación de escritorio en C# (Windows Forms) con base de dat
 5. **Captura anotada:** pantalla de Movimientos de Stock con referencias numeradas.
 6. **Documentación del proyecto en 7 pasos:** requisitos, diseño (casos de uso, diagrama entidad relación, arquitectura y prototipos), manual técnico, manual de usuario, pruebas, instalación y despliegue, y control de versiones de la documentación.
 
+## Presentación
+
+En la carpeta `presentacion` está el apoyo visual que usé en la exposición oral del trabajo. Resume qué es SistemaPP, para qué sirve, cómo está hecho, el proceso de egreso de stock que elegí, los seis apartados del trabajo y las complicaciones que tuve al hacerlo.
+
 ## Estructura del repositorio
 
 ```
@@ -28,6 +32,8 @@ documentos/
 imagenes/
   diagrama_flujo_egreso_stock.png         → diagrama del apartado 3
   interfaz_movimientos_stock.png          → captura anotada del apartado 5
+presentacion/
+  Presentacion.pdf                        → diapositivas de la exposición oral
 README.md
 ```
 
